@@ -43,11 +43,10 @@ semana5/
 
 Enum que representa los posibles estados de un pedido:
 
-```java
+java
 PENDIENTE
 EN_REPARTO
 ENTREGADO
-```
 
 ### Pedido
 
